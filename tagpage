@@ -1,0 +1,762 @@
+<!-------------------------------------------------
+TAGS PAGE #04 BY: http://robbarya.tumblr.com (INSTRUCTIONS IN CODE)
+...................................................
+...................................................
+
+TERMS OF USE:
+- DON'T CLAIM AS YOUR OWN
+- DON'T REMOVE OR MOVE THE CREDIT
+- DON'T REDISTRIBUTE
+- DON'T USE AS A BASE. YOU CAN EDIT IT AS MUCH AS YOU LIKE AS LONG AS THE CREDIT IS STILL IN ITS ORIGINAL PLACE- Thank you
+--------------------------------------------->
+
+<html>
+  <head>
+    <title>Navigation</title><!---Change the browser title----->
+    
+<link rel="shortcut icon" href="{Favicon}" />
+
+    
+    <style type="text/css">
+      
+      
+      ::-webkit-scrollbar-thumb:vertical {
+    background-color: #666;/*Change the scrollbar color*/
+    height:8px;
+}
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar {
+    margin-left: 7px;
+	height:7px;
+	width:7px;
+}
+
+      
+        body {
+        background-color: #8A5A9C;/*Change the background color*/
+        color: #190321; /*Change the text color*/
+        font-family: Calibri;
+        font-size: 12px;
+        letter-spacing: 0.1em;}
+        
+
+       .titulo {
+          margin-bottom: 2px;
+          padding: 5px 0px;
+          width: 600px;
+          height: 24px;
+          font-family: Calibri;
+          text-transform: uppercase;
+          text-align:center;
+          background-color: #FAADF1;/*Change the title background color*/
+          letter-spacing: 2px;
+          color: #190321; /*Change the title color*/
+          font-size: 20px;
+      }
+      
+.header img {
+    width: 0px;
+    height: 0px;
+}
+
+.header {
+    width: 830px;
+}   
+
+.header ul {
+    margin-top: 5px;
+    width: 600px;
+    margin-left: 0px;
+    font-family: consolas;
+    list-style-type: none;
+}
+
+.header ul li {
+    width: 118px;
+    display:inline-block;
+    background-color: #FAADF1; /*Change the main links background color*/
+    text-align: center;
+}
+
+.header ul li a {
+    padding: 5px;
+    letter-spacing: 2px;
+    display: inline-block;
+    color: #190321; /*Change the main links color*/
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.header ul li:hover {
+  border-left: solid 5px #190321; /*Change the main links left border color*/
+  width: 216px;
+  color: #FAADC9; /*Change the main links color when hover*/
+}
+
+      
+.all { 
+    margin: 50px auto;
+    width: 500px;
+}
+
+.enlaces {
+        height: 400px;
+        width: 200px;
+        margin-left: 0px;
+        margin-top: 15px;
+        position: absolute;
+}
+
+
+ 
+.link label{
+    color: #190321; /*Change the list titles color*/
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: bold;
+    background-color: #FFC0FF; /*Change the list titles background color*/
+    width:220px; /*List category width*/
+    padding: 5px;
+    text-transform: ;
+    height: 15px;
+    text-align: center;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 10px;
+    }
+
+.link label:hover {
+  border-left: solid 10px #190321; /*Change the list titles left border color*/
+  width: 240px;
+  color: #999; /*Change the list titles color when hover*/
+  }
+  
+[type=radio]:checked ~ label {
+  z-index: 2;
+  border-left: solid 10px #190321;/*Change the list titles left border color when checked*/
+  color: #E14DE1;/*Change the list titles color when checked*/
+  width: 240px;
+}
+
+.link [type=radio] {
+    display: none;  
+}
+ 
+.contenido {
+    color: #190321;
+    background-color: #FFC0FF;
+    float:right;
+    width: 340px;
+    margin-top: -30px;
+    margin-left: 300px;
+    height: 400px;
+    padding: 10px;
+    overflow: scroll;
+    text-align: justify;
+    position: absolute;
+    top:30px;
+    left:-60px;
+}
+
+.contenido a {
+    color: #E14DE1;  /*Change the links color*/
+    padding: 3px;
+    font-size: 15px;
+    margin-bottom: 2px;
+    display: block;
+    text-decoration: none;
+    text-transform: ;
+}
+
+.contenido a:hover {
+    letter-spacing: 2px;
+    border-bottom: solid 2px #E14DE1; /*Change the links bottom border color when hover*/
+    text-align:center;
+    color: #E14DE1; /*Change the links color when hover*/
+    font-weight: bold;
+    padding: 2px;
+    
+}
+ 
+ 
+[type=radio]:checked ~ label ~ .contenido {
+  z-index: 1;
+}
+    </style>
+
+  </head>
+  <body>
+   <div class="all">
+     <div class="header">
+     <img src="https://s-media-cache-ak0.pinimg.com/originals/4c/2f/72/4c2f727355d6ae5ca21d5c479f9fbcbc.jpg"><!--------Top image URL here. To get an URL you should previously upload the image on 
+http://www.tumblr.com/themes/upload_static_file and then copy here the link it gives you, between the "".         Make it 350x170px --------->
+  <div class="titulo">Navigation</div><!---Change the title--->
+     <ul>
+       <li><a href="/">home</a></li>
+         <li><a href="/ask">message</a></li>
+         <li><a href="http://tumblr.com/dashboard">dashboard</a></li>
+       <li><a href="http://robbarya.tumblr.com">credit</a></li>
+     </ul>
+     </div>
+     
+  
+<div class="enlaces">
+
+
+    <div class="link">
+   <input type="radio" id="tab-1" name="tab-group-1" checked>
+   <label for="tab-1">Volumes 1-3</label>
+   <!----Change the list title!---->
+       
+   <div class="contenido">
+   
+  <center>Volume 1</center> 
+   <a href="/tagged/vol_1/chrono" target="_blank">Chapitre 1 aka The Worst Picnic Ever</a> 
+   <a href="/tagged/vol_2/chrono" target="_blank">Chapitre 2 aka Important Conversations In The Rain</a>
+   <a href="/tagged/vol_3/chrono" target="_blank">Chapitre 3 aka I Call Her My Honey</a>
+   <a href="/tagged/vol_4/chrono" target="_blank">Chapitre 4 aka Sorata Explains Everything Except Kudan</a>
+   <a href="/tagged/vol_5/chrono" target="_blank">Chapitre 5 aka The Digimon Protagonists VS The Janitor Crew</a>
+   <center>Volume 2</center>
+   <a href="/tagged/vol_6/chrono" target="_blank">Chapitre 6 aka I Like You Now</a>
+   <a href="/tagged/vol_7/chrono" target="_blank">Chapitre 7 aka Kurogane Casually Kills A God </a>
+   <a href="/tagged/vol_8/chrono" target="_blank">Chapitre 8 aka Sorata Finally Explains Kudan</a>
+   <a href="/tagged/vol_9/chrono" target="_blank">Chapitre 9 aka Fai Uses Self-Destruct</a>
+   <a href="/tagged/vol_10/chrono" target="_blank">Chapitre 10 aka Also Fai Is Secretly Terrifying</a>
+   <a href="/tagged/vol_11/chrono" target="_blank">Chapitre 11 aka Kurogane Enters The Magazine Fandom</a>
+   <a href="/tagged/vol_12/chrono" target="_blank">Chapitre 12 aka I Swear To God Shocked Kid</a>
+   <a href="/tagged/vol_13/chrono" target="_blank">Chapitre 13 aka Oh You Thought This Series Was Going To Be Happy?</a>
+   <center>Volume 3</center>
+   <a href="/tagged/vol_14/chrono" target="_blank">Chapitre 14 aka Shocked Kid Makes Poor Life Decisions</a>
+   <a href="/tagged/vol_15/chrono" target="_blank">Chapitre 15 aka Enter: Tornado-chan </a>
+   <a href="/tagged/vol_16/chrono" target="_blank">Chapitre 16 aka Every Day I’m Hustlin’ </a>
+   <a href="/tagged/vol_17/chrono" target="_blank">Chapitre 17 aka Syaoran Is Hitmonlee: Confirmed</a>
+   <a href="/tagged/vol_18/chrono" target="_blank">Chapitre 18 aka Kurogane Casually Punches Through Walls. </a>
+   <a href="/tagged/vol_19/chrono" target="_blank">Chapitre 19 aka Lady Debonair Is Better Than You</a>
+   <a href="/tagged/vol_20/chrono" target="_blank">Chapitre 20 aka But Really She Is Better Than You</a>
+   <a href="/tagged/vol_21/chrono" target="_blank">Chapitre 21 aka Character Growth and MURDER</a>
+   <a href="/tagged/" target="_blank"></a>
+   <!----You can erase these or add more!---->
+
+   </div>
+   </div>
+   
+   <div class="link">
+   <input type="radio" id="tab-2" name="tab-group-1">
+   <label for="tab-2">Volumes 4-6</label>
+       
+   <div class="contenido">
+   
+   <CENTER>Volume 4</CENTER>
+   <a href="/tagged/vol_22/chrono" target="_blank">Chapitre 22 aka Pretty Hair Detective Shows Up Just In Time To Do Nothing</a>
+   <a href="/tagged/vol_23/chrono" target="_blank">Chapitre 23 aka That Makes Kurogane Sooo Happy</a> 
+   <a href="/tagged/vol_24/chrono" target="_blank">Chapitre 24 aka Flashbacks. No, really. Flashbacks. </a>
+   <a href="/tagged/vol_25/chrono" target="_blank">Chapitre 25 aka I Mean The Food</a>
+   <a href="/tagged/vol_26/chrono" target="_blank">Chapitre 26 aka Adventure Archaeologist Extraordinaire</a>
+   <a href="/tagged/vol_27/chrono" target="_blank">Chapitre 27 aka Pillow Fights and Super Sleuth Sakura</a>
+   <a href="/tagged/vol_28/chrono" target="_blank">Chapitre 28 aka Violence and Sexual Awakenings</a>
+   <center>Volume 5</center>
+   <a href="/tagged/vol_29/chrono" target="_blank">Chapitre 29 aka Detective AU, “Kyle”, and How To Break Enjolras’ Heart</a>
+   <a href="/tagged/vol_30/chrono" target="_blank">Chapitre 30 aka No Time To Listen To Women Talking To Phantoms</a>
+   <a href="/tagged/vol_31/chrono" target="_blank">Chapitre 31 aka Murder Chases and Imploding Castles</a>
+   <a href="/tagged/vol_32/chrono" target="_blank">Chapitre 32 aka The Secret OTP Finally Emerges</a>
+   <a href="/tagged/vol_33/chrono" target="_blank">Chapitre 33 aka HYPE LEVEL: 100</a>
+   <a href="/tagged/vol_34/chrono" target="_blank">Chapitre 34 aka Cafe AU</a>
+   <a href="/tagged/vol_35/chrono" target="_blank">Chapitre 35 aka The Happy Animal Family</a>
+   <center>Volume 6</center>
+   <a href="/tagged/vol_36/chrono" target="_blank">Chapitre 36 aka Begin: Shounen Flirting</a>
+   <a href="/tagged/vol_37/chrono" target="_blank">Chapitre 37 aka Inappropriate Sword Imagery</a>
+   <a href="/tagged/vol_38/chrono" target="_blank">Chapitre 38 aka Save Your Boyfriend With The Power of Capitalism</a>
+   <a href="/tagged/vol_39/chrono" target="_blank">Chapitre 39 aka Adventures in Underage Drinking</a>
+   <a href="/tagged/vol_40/chrono" target="_blank">Chapitre 40 aka The Return of Shocked Kid</a>
+   <a href="/tagged/vol_41/chrono" target="_blank">Chapitre 41 aka “Literally Anyone”</a>
+   <a href="/tagged/vol_42/chrono" target="_blank">Chapitre 42 aka Vampires? In MY Tsubasa? It’s More Likely Than You Think!</a>
+
+   </div>
+   </div>
+   
+   <div class="link">
+   <input type="radio" id="tab-3" name="tab-group-1">
+   <label for="tab-3">Volumes 7-9</label></label>
+       
+   <div class="contenido">
+   
+   <center>Volume 7</center>
+<a href="/tagged/vol_43/chrono" target="_blank">Chapitre 43 aka Kurogane-San’s ON THE PROWL</a>
+<a href="/tagged/vol_44/chrono" target="_blank">Chapitre 44 aka This Chapter Does Not Exist</a>
+<a href="/tagged/vol_45/chrono" target="_blank">Chapitre 45 aka NOPE</a>
+<a href="/tagged/vol_46/chrono" target="_blank">Chapitre 46 aka I Mean, Who <i>Really</i> Needs Memories Anyway?</a>
+<a href="/tagged/vol_47/chrono" target="_blank">Chapitre 47 aka Local Hacker Ruins Fun For Everyone</a>
+<a href="/tagged/vol_48/chrono" target="_blank">Chapitre 48 aka The ‘But Kurogane’ Exhibition</a>
+<a href="/tagged/vol_49/chrono" target="_blank">Chapitre 49 aka Disappointing Everyone</a>
+<center>Volume 8</center>
+<a href="/tagged/vol_50/chrono" target="_blank">Chapitre 50 aka Death by Coconut</a>
+<a href="/tagged/vol_51/chrono" target="_blank">Chapitre 51 aka The Return of Tornado-Chan</a>
+<a href="/tagged/vol_52/chrono" target="_blank">Chapitre 52 aka No Really We Weren’t Kidding About Tornado-Chan</a>
+<a href="/tagged/vol_53/chrono" target="_blank">Chapitre 53 aka “Flower Fun” District and Public Sword Touching</a>
+<a href="/tagged/vol_54/chrono" target="_blank">Chapitre 54 aka When Life Gives You Romance Novels</a>
+<a href="/tagged/vol_55/chrono" target="_blank">Chapitre 55 aka The Jinja Bus is Coming</a>
+<a href="/tagged/vol_56/chrono" target="_blank">Chapitre 56 aka What Even is Gender Anyway</a>
+<a href="/tagged/vol_57/chrono" target="_blank">Chapitre 57 aka Intoxicated Fun in the Flower Fun District</a>
+<center>Volume 9</center>
+<a href="/tagged/vol_58/chrono" target="_blank">Chapitre 58 aka Legendaries: Confirmed</a>
+<a href="/tagged/vol_59/chrono" target="_blank">Chapitre 59 aka Drop The Bass</a>
+<a href="/tagged/vol_60/chrono" target="_blank">Chapitre 60 aka Teatime with Sexy Trouble</a>
+<a href="/tagged/vol_61/chrono" target="_blank">Chapitre 61 aka Battle of the Fashion Statements</a>
+<a href="/tagged/vol_62/chrono" target="_blank">Chapitre 62 aka Sweet Potato to the Rescue</a>
+<a href="/tagged/vol_63/chrono" target="_blank">Chapitre 63 aka Why You Always Lying</a>
+<a href="/tagged/vol_64/chrono" target="_blank">Chapitre 64 aka Fun With Reflections</a>
+<a href="/tagged/vol_65/chrono" target="_blank">Chapitre 65 aka Surprise!DDR</a>
+
+
+
+   </div>
+   </div>
+   
+   <div class="link">
+   <input type="radio" id="tab-4" name="tab-group-1">
+   <label for="tab-4">Volumes 10-12</label>
+       
+   <div class="contenido">
+   
+   <center>Volume 10</center>
+   <a href="/tagged/vol_66/chrono" target="_blank">Chapitre 66 aka No Refunds</a>
+   <a href="/tagged/vol_67/chrono" target="_blank">Chapitre 67 aka When Good Advice Goes Bad</a>
+   <a href="/tagged/vol_68/chrono" target="_blank">Chapitre 68 aka Six Months of Gay</a>
+   <a href="/tagged/vol_69/chrono" target="_blank">Chapitre 69 aka Enter: Mystery Silhouette Dick-san</a>
+   <a href="/tagged/vol_70/chrono" target="_blank">Chapitre 70 aka Father/Daughter Shopping Trips</a>
+   <a href="/tagged/vol_71/chrono" target="_blank">Chapitre 71 aka All My Dreams Come True</a>
+   <a href="/tagged/vol_72/chrono" target="_blank">Chapitre 72 aka Best World: Confirmed</a>
+   <a href="/tagged/vol_73/chrono" target="_blank">Chapitre 73 aka Cyclone Cuts Returns</a>
+   <center>Volume 11</center>
+   <a href="/tagged/vol_74/chrono" target="_blank">Chapitre 74 aka Sports Are Gay Now I Don’t Make The Rules</a>
+   <a href="/tagged/vol_75/chrono" target="_blank">Chapitre 75 aka Tomoyo Gets Shit Done</a>
+   <a href="/tagged/vol_76/chrono" target="_blank">Chapitre 76 aka Questionable Life Decisions</a>
+   <a href="/tagged/vol_77/chrono" target="_blank">Chapitre 77 aka E X P E R I E N C E T H E G L O B E F I S H</a>
+   <a href="/tagged/vol_78/chrono" target="_blank">Chapitre 78 aka Sorata Is Finally Dethroned</a>
+   <a href="/tagged/vol_79/chrono" target="_blank">Chapitre 79 aka Unsubtle Lesbianism</a>
+   <a href="/tagged/vol_80/chrono" target="_blank">Chapitre 80 aka Time To Kinkshame A Country</a>
+   <a href="/tagged/vol_81/chrono" target="_blank">Chapitre 81 aka Pokemon Up To Level 30 Will Obey You</a>
+   <a href="/tagged/vol_82/chrono" target="_blank">Chapitre 82 aka ENTER THE DRAGON TUBE</a>
+   <center>Volume 12</center>
+   <a href="/tagged/vol_83/chrono" target="_blank">Chapitre 83 aka [Gay Sports Intensifies]</a>
+   <a href="/tagged/vol_84/chrono" target="_blank">Chapitre 84 aka Totally Not A Saboteur I Don’t Know What You Mean</a>
+   <a href="/tagged/vol_85/chrono" target="_blank">Chapitre 85 aka Geyser Jealousy</a>
+   <a href="/tagged/vol_86/chrono" target="_blank">Chapitre 86 aka Surprise Hand Holding</a>
+   <a href="/tagged/vol_87/chrono" target="_blank">Chapitre 87 aka The Sweetest Racer of them All</a>
+   <a href="/tagged/vol_88/chrono" target="_blank">Chapitre 88 aka With A GUN</a>
+   <a href="/tagged/vol_89/chrono" target="_blank">Chapitre 89 aka Double The Tomoyo Double The Fun</a>
+   <a href="/tagged/vol_90/chrono" target="_blank">Chapitre 90 aka Maximum Gay</a>
+   
+   
+   </div>
+   </div>
+   
+   <div class="link">
+   <input type="radio" id="tab-5" name="tab-group-1">
+   <label for="tab-5">Volumes 13-15</label>
+   
+   <div class="contenido">
+   
+   <center>Volume 13</center>
+   <a href="/tagged/vol_91/chrono" target="_blank">Chaptire 91 aka The World of My Dreams</a>
+   <a href="/tagged/vol_92/chrono" target="_blank">Chaptire 92 aka Syaoran in Kuro-Land</a>
+   <a href="/tagged/vol_93/chrono" target="_blank">Chaptire 93 aka And Who Is That Child - The Continuation</a>
+   <a href="/tagged/vol_94/chrono" target="_blank">Chaptire 94 aka What Could Possibly Go Wrong?</a>
+   <a href="/tagged/vol_95/chrono" target="_blank">Chaptire 95 aka NOPE</a>
+   <a href="/tagged/vol_96/chrono" target="_blank">Chaptire 96 aka NOPE (refrain)</a>
+   <a href="/tagged/vol_97/chrono" target="_blank">Chaptire 97 aka Gayzerbeam</a>
+   <a href="/tagged/vol_98/chrono" target="_blank">Chaptire 98 aka Just. Tears. Everywhere.</a>
+   <a href="/tagged/vol_99/chrono" target="_blank">Chaptire 99 aka Justice For Werewolves 2k17</a>
+   <center>Volume 14</center>
+   <a href="/tagged/vol_100/chrono" target="_blank">Chaptire 100 aka The Whiskey Monologues</a>
+   <a href="/tagged/vol_101/chrono" target="_blank">Chaptire 101 aka <s>Downton</s> Recourt Abbey</a>
+   <a href="/tagged/vol_102/chrono" target="_blank">Chaptire 102 aka Fourth Wall? What Fourth Wall?</a>
+   <a href="/tagged/vol_103/chrono" target="_blank">Chaptire 103 aka Calling You Out On Your Shit</a>
+   <a href="/tagged/vol_104/chrono" target="_blank">Chaptire 104aka The Floor Is Lava <s>Lamp Guy</s></a>
+   <a href="/tagged/vol_105/chrono" target="_blank">Chaptire 105 aka And Who Is THAT Child?</a>
+   <a href="/tagged/vol_106/chrono" target="_blank">Chaptire 106 aka <i>Phweet Phwoo Mother Phucker</i></a>
+   <a href="/tagged/vol_107/chrono" target="_blank">Chaptire 107 aka Welcome to Bad Time Acid Town</a>
+   <a href="/tagged/vol_108/chrono" target="_blank">Chaptire 108 aka Oh Look the Bad Omens Got WORSE</a>
+   <center>Volume 15</center>
+   <a href="/tagged/vol_109/chrono" target="_blank">Chaptire 109 aka Kurogane Brings The Beef To The Yard</a>
+   <a href="/tagged/vol_110/chrono" target="_blank">Chaptire 110 aka Party Like It's X/1999</a>
+   <a href="/tagged/vol_111/chrono" target="_blank">Chaptire 111 aka Water is Wet</a>
+   <a href="/tagged/vol_112/chrono" target="_blank">Chaptire 112 aka Why the fuck you lyin'? Why you always lyin'?</a>
+   <a href="/tagged/vol_113/chrono" target="_blank">Chapitre 113 aka The Cold Never Bothered Me Anyway</a>
+   <a href="/tagged/vol_114/chrono" target="_blank">Chapitre 114 aka Tell Me How I'm Supposed to Breathe with No Air</a>
+   <a href="/tagged/vol_115/chrono" target="_blank">Chapitre 115 aka Tsubasa SALT CHRONICLE</a>
+   <a href="/tagged/vol_116/chrono" target="_blank">Chapitre 116 aka Vague Conversation Olympics</a>
+
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+      
+   
+
+
+   </div>
+   </div>
+
+
+
+ <div class="link">
+   <input type="radio" id="tab-6" name="tab-group-1">
+   <label for="tab-6">Volumes 16-18</label>
+   
+   <div class="contenido">
+   
+   <center>Volume 16</center>
+   <a href="/tagged/vol_117/chrono" target="_blank">Chapitre 117 aka Syaorans are Friends, Not Food</a>
+   <a href="/tagged/vol_118/chrono" target="_blank">Chapitre 118 aka Creepy Murder Twink Aesthetic</a>
+   <a href="/tagged/vol_119/chrono" target="_blank">Chapitre 119 aka This Is Fine</a>
+   <a href="/tagged/vol_120/chrono" target="_blank">Chapitre 120 aka Let Kurogane Say Fuck</a>
+   <a href="/tagged/vol_121/chrono" target="_blank">Chapitre 121 aka My Syaoran My Syaoran And Me</a>
+   <a href="/tagged/vol_122/chrono" target="_blank">Chapitre 122 aka H a c k e d</a>
+   <a href="/tagged/vol_123/chrono" target="_blank">Chapitre 123 aka FREE HER</a>
+   <a href="/tagged/vol_124/chrono" target="_blank">Chapitre 124 aka Blip Blops</a>
+   <center>Volume 17</center>
+   <a href="/tagged/vol_125/chrono" target="_blank">Chapitre 125 aka Thanks I Hate It</a>
+   <a href="/tagged/vol_126/chrono" target="_blank">Chapitre 126 aka Old as Balls</a>
+   <a href="/tagged/vol_127/chrono" target="_blank">Chapitre 127 aka Long Live the Queen</a>
+   <a href="/tagged/vol_128/chrono" target="_blank">Chapitre 128 aka All My Dreams Come True</a>
+   <a href="/tagged/vol_129/chrono" target="_blank">Chapitre 129 aka The Party Don't Start Till Sakura Gets Pants</a>
+   <a href="/tagged/vol_130/chrono" target="_blank">Chapitre 130 aka You Utter Dick</a>
+   <a href="/tagged/vol_131/chrono" target="_blank">Chapitre 131 aka I Have rEGGrets</a>
+   <a href="/tagged/vol_132/chrono" target="_blank">Chapitre 132 aka Tsubasa Divorce Chronicle</a>
+   <center>Volume 18</center>
+   <a href="/tagged/vol_133/chrono" target="_blank">Chapitre 133 aka Let Mokona Say Fuck</a>
+   <a href="/tagged/vol_134/chrono" target="_blank">Chapitre 134 aka The Sakura We Need, The Sakura We Deserve</a>
+   <a href="/tagged/vol_135/chrono" target="_blank">Chapitre 135 aka Wipe Up That Snot You Messy Bitch</a>
+   <a href="/tagged/vol_136/chrono" target="_blank">Chapitre 136 aka Dark Angelic Layer, Show Me The Forbidden Biceps</a>
+   <a href="/tagged/vol_137/chrono" target="_blank">Chapitre 137 aka Kiss Kiss Fall In Angst</a>
+   <a href="/tagged/vol_138/chrono" target="_blank">Chapitre 138 aka Do It For The Vine</a>
+   <a href="/tagged/vol_139/chrono" target="_blank">Chapitre 139 aka Now with BEES</a>
+   <a href="/tagged/vol_140/chrono" target="_blank">Chapitre 140 aka I've Been Searching For a Man All Across Japan</a>
+   
+   
+
+   </div>
+   </div>
+
+
+
+ <div class="link">
+   <input type="radio" id="tab-7" name="tab-group-1">
+   <label for="tab-7">Volumes 19-21</label>
+   
+   <div class="contenido">
+   
+   <center>Volume 19</center>
+   <a href="/tagged/vol_141/chrono" target="_blank">Chapitre 141 aka The Family That Lies Together Stays Together</a> 
+   <a href="/tagged/vol_142/chrono" target="_blank">Chapitre 142 aka Everything’s FINE</a>
+   <a href="/tagged/vol_143/chrono" target="_blank">Chapitre 143 aka What Dreams Are Made Of</a>
+   <a href="/tagged/vol_144/chrono" target="_blank">Chapitre 144 aka [muffled Become as Gods in the distance]</a>
+   <a href="/tagged/vol_145/chrono" target="_blank">Chapitre 145 aka Literally Anyone is Online</a>
+   <a href="/tagged/vol_146/chrono" target="_blank">Chapitre 146 aka Support Your Local WlW</a>
+   <a href="/tagged/vol_147/chrono" target="_blank">Chapitre 147 aka Chi-Pose</a>
+   <a href="/tagged/vol_148/chrono" target="_blank">Chapitre 148 aka DELETE THIS</a>
+   <a href="/tagged/vol_149/chrono" target="_blank">Chapitre 149 aka Ghost Adventures!</a>
+   <center>Volume 20</center>
+   <a href="/tagged/vol_150/chrono" target="_blank">Chapitre 150 aka Jam Jar of Dreams</a>
+   <a href="/tagged/vol_151/chrono" target="_blank">Chapitre 151 aka My Main Mantis</a>
+   <a href="/tagged/vol_152/chrono" target="_blank">Chapitre 152 aka Oh Haven't You Heard About My Second Secret Trap?</a>
+   <a href="/tagged/vol_153/chrono" target="_blank">Chapitre 153 aka Mokona Did Not Participate</a>
+   <a href="/tagged/vol_154/chrono" target="_blank">Chapitre 154 aka A Poorly Planned Surprise Party</a>
+   <a href="/tagged/vol_155/chrono" target="_blank">Chapitre 155 aka This Cannot Possibly Get Worse</a>
+   <a href="/tagged/vol_156/chrono" target="_blank">Chapitre 156 aka Somehow? It Got Worse</a>
+   <a href="/tagged/vol_157/chrono" target="_blank">Chapitre 157 aka So You Think You Know Sadness</a>
+   <a href="/tagged/vol_158/chrono" target="_blank">Chapitre 158 aka The Curse! The Curse I am Cursing You With in a Curselike Fashion</a>
+   <center>Volume 21</center>
+   <a href="/tagged/vol_159/chrono" target="_blank">Chapitre 159 aka The Drama We Deserve</a>
+   <a href="/tagged/vol_160/chrono" target="_blank">Chapitre 160 aka It Sure Is Cold Today</a>
+   <a href="/tagged/vol_161/chrono" target="_blank">Chapitre 161 aka Battle of the Husbands</a>
+   <a href="/tagged/vol_162/chrono" target="_blank">Chapitre 162 aka Trashura</a>
+   <a href="/tagged/vol_163/chrono" target="_blank">Chapitre 163 aka Bee Train Crimes</a>
+   <a href="/tagged/vol_164/chrono" target="_blank">Chapitre 164 aka Let Us Celebrate the Day of Stab</a>
+   <a href="/tagged/vol_165/chrono" target="_blank">Chapitre 165 aka Ding Dong</a>
+   <a href="/tagged/vol_166/chrono" target="_blank">Chapitre 166 aka What a Handful</a>
+
+
+   </div>
+   </div>
+
+
+
+ <div class="link">
+   <input type="radio" id="tab-8" name="tab-group-1">
+   <label for="tab-8">Volumes 22-24</label>
+   
+   <div class="contenido">
+   
+   <center>Volume 22</center>
+   Not yet liveblogged
+   <a href="/notyet" target="_blank">Chapitre 167 aka</a> 
+   <a href="/notyet" target="_blank">Chapitre 168 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 169 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 170 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 171 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 172 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 173 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 174 aka</a>
+   <center>Volume 23</center>
+   Not yet Liveblogged
+   <a href="/notyet" target="_blank">Chapitre 175 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 176 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 177 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 178 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 179 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 180 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 181 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 182 aka</a>
+   <center>Volume 24</center>
+   Not yet liveblogged
+   <a href="/notyet" target="_blank">Chapitre 183 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 184 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 185 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 186 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 187 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 188 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 189 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 190 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 191 aka</a>
+
+
+   </div>
+   </div>
+   
+   
+    <div class="link">
+   <input type="radio" id="tab-9" name="tab-group-1">
+   <label for="tab9">Volumes 25-27</label>
+   
+   <div class="contenido">
+   
+   <center>Volume 25</center>
+   Not yet liveblogged
+   <a href="/notyet" target="_blank">Chapitre 192 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 193 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 194 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 195 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 196 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 197 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 198 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 199 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 200 aka</a>
+   <center>Volume 26</center>
+   Not yet liveblogged
+   <a href="/notyet" target="_blank">Chapitre 201 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 202 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 203 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 204 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 205 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 206 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 207 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 208 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 209 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 210 aka</a>
+   <center>Volume 27</center>
+   Not yet liveblogged
+   <a href="/notyet" target="_blank">Chapitre 211 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 212 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 213 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 214 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 215 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 216 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 217 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 218 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 219 aka</a>
+   
+
+
+   </div>
+   </div>
+
+
+ <div class="link">
+   <input type="radio" id="tab-10" name="tab-group-1">
+   <label for="tab-10">Volume 28 </label>
+   
+   <div class="contenido">
+   
+   <center>Volume 28</center>
+   Not yet liveblogged
+   <a href="/notyet" target="_blank">Chapitre 220 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 221 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 222 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 223 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 224 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 225 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 226 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 227 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 228 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 229 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 230 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 231 aka</a>
+   <a href="/notyet" target="_blank">Chapitre 232 aka</a>
+   <a href="/notyet" target="_blank">Epilogue aka</a>
+   
+   
+
+
+   </div>
+   </div>
+
+
+   
+   <div class="link">
+   <input type="radio" id="tab-11" name="tab-group-1">
+   <label for="tab-11">Others</label></label>
+       
+   <div class="contenido">
+   
+   <center>Omake</center>
+   <a href="/tagged/vol_57.5/chrono" target="_blank">Omake 1 aka Grand Theft Sushi</a>
+   <a href="/tagged/" target="_blank">Omake 2 (not yet liveblogged)</a>
+   <a href="/tagged/vol_73.5/chrono" target="_blank">Omake 3 aka The Mystery of the Century</a>
+   <a href="/tagged/vol_90.5/chrono" target="_blank">Omake 4 aka Manga-Chan Rules The World</a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+   <center>Movies</center>
+   <a href="/tagged/Liveblogging-the-Birdcage-Kingdom/chrono" target="_blank">Princess and the Birdcage Kingdom</a>
+   <a href="/tagged/liveblogging-the-midsummer-dream/chrono" target="_blank">xXxHolic: A Midsummer Night’s Dream</a>
+   <center>Other CLAMP Liveblogs</center>
+   <a href="/holic" target="_blank">xXxHolic</a>
+   <a href="/tagged/Let%27s-talk-about-RG-Veda/chrono" target="_blank">RG Veda</a>
+   <a href="/tagged/CLAMP-SCHOOL-DETECTIVES/chrono" target="_blank">CLAMP School Detectives</a>
+   <a href="/tagged/Liveblogging-the-Horitsuba-chronicle/chrono" target="_blank">Horitsuba</a>
+   <a href="/tagged/x%2F1999/chrono" target="_blank">X/1999</a>
+   <a href="/noliveblog" target="_blank">Tokyo Babylon</a>
+   <a href="/noliveblog" target="_blank">Magical Knight Rayearth</a>
+   <a href="/tagged/Chobits/chrono" target="_blank">Chobits</a>
+   <a href="/noliveblog" target="_blank">Angelic Layer</a>
+   <a href="/tagged/Liveblogging-the-Wonderland-Chronicle/chrono" target="_blank">CLAMP in Wonderland</a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+
+
+
+
+   </div>
+   </div>
+   
+   
+   
+   <div class="link">
+   <input type="radio" id="tab-12" name="tab-group-1">
+   <label for="tab-12">Characters</label>
+       
+   <div class="contenido">
+   
+   <center>Tsubasa Family</center>
+   
+   <center><a href="/tagged/sakura/chrono" target="_blank">Sakura</a></center>
+   <a href="/tagged/Super_Sleuth_Sakura/chrono" target="_blank">Super Sleuth Sakura</a>
+   <a href="/tagged/Floaty Bubbles/chrono" target="_blank">Floaty Bubbles</a>
+   <a href="/tagged/Sakura Knows What’s Up/chrono" target="_blank">Sakura Knows What’s Up </a>
+   <a href="/tagged/bisexual_babies/chrono" target="_blank">Bisexual Babies</a>
+   
+   <center><a href="/tagged/syaoran/chrono" target="_blank">Syaoran</a></center>
+   <a href="/tagged/The Kicking Fiend/chrono" target="_blank">The Kicking Fiend</a>
+   <a href="/tagged/And the Backstory of Death/chrono" target="_blank">And the Backstory of Death</a>
+   <a href="/tagged/Adventure Archaeologist Extraodinaire/chrono" target="_blank">Adventure Archaeologist Extraodinaire</a>
+   <a href="/tagged/Somebody Please Save Syaoran From Himself/chrono" target="_blank">Somebody Please Save Syaoran From Himself</a>
+   <a href="/tagged/bisexual_babies/chrono" target="_blank">Bisexual Babies</a>
+   <a href="/tagged/syaosquared/chrono" target="_blank">SyaoSquared</a>
+   <a href="/tagged/autopilot_syaoran/chrono" target="_blank">AutoPilot</a>
+   
+   <center><a href="/tagged/fai/chrono" target="_blank">Fai</a></center>
+   <a href="/tagged/The Trollest Troll to ever Troll/chrono" target="_blank">The Trollest Troll to ever Troll</a>
+   <a href="/tagged/FAI WHAT DID YOU DO/chrono" target="_blank">FAI WHAT DID YOU DO</a>
+   <a href="/tagged/Fai-can%27t-whistle/chrono" target="_blank">Fai can't whistle</a>
+   <a href="/tagged/The-lying-liar-who-lies/chrono" target="_blank">The Lying Liar Who Lies</a>
+   
+   <center><a href="/tagged/kurogane/chrono" target="_blank">Kurogane</a></center>
+   <a href="/tagged/" target="_blank">Tsundere Kurogane</a>
+   <a href="/tagged/" target="_blank">Actual Ninja</a>
+   <a href="/tagged/" target="_blank">Kurogane Does Not Deserve This</a>
+   <a href="/tagged/" target="_blank">But Kurogane Clause</a>
+   
+   <center><a href="/tagged/Mokona/chrono" target="_blank">Mokona</a></center>
+   <a href="/tagged/" target="_blank">Complete Troll Apprentice</a>
+   <a href="/tagged/" target="_blank">Actual Sweetheart</a>
+   
+   <center><a href="/tagged/lava_lamp_guy/chrono" target="_blank">Lava Lamp Guy</a></center>
+   <a href="/tagged/syaosquared/chrono" target="_blank">SyaoSquared</a>
+   <a href="/tagged/The Kicking Fiend/chrono" target="_blank">The Kicking Fiend</a>
+   
+   <center>xXxHolic</center>
+   <center><a href="/tagged/yuuko_ichihara/chrono" target="_blank">Yuuko</a></center>
+   <a href="/tagged/Queen of the World" target="_blank">Queen of the World</a>
+   <center><a href="/tagged/watanuki/chrono" target="_blank">Watanuki</a></center>
+   <center><a href="/tagged/Doumeki/chrono" target="_blank">Doumeki</a></center>
+   <center><a href="/tagged/Himawari/chrono" target="_blank">Himawari</a></center>
+   <center><a href="/tagged/fox-chan/chrono" target="_blank">Fox-chan</a></center>
+   <center>Reoccurring Characters</center>
+   <a href="/tagged/touya/chrono" target="_blank">Touya</a>
+   <a href="/tagged/yukito/chrono" target="_blank">Yukito</a>
+   <a href="/tagged/tomoyo/chrono" target="_blank">Tomoyo</a>
+   <a href="/tagged/and_shocked_kid/chrono" target="_blank">Masayoshi</a>
+   <a href="/tagged/digimon_protagonist/chrono" target="_blank">Shougo</a>
+   <a href="/tagged/literally_anyone/chrono" target="_blank">Seishirou</a>
+   <a href="/tagged/Secret-Love-Child-of-Fujitaka-and-Clow-Reed/chrono" target="_blank">Kyle</a>
+   <a href="/tagged/Evil-Wolverine/chrono" target="_blank">Fei Wang Reed</a>
+   <a href="/tagged/Ryuou" target="_blank">Ryuou</a>
+   <a href="/tagged/tornado-chan" target="_blank">Tornado-chan</a>
+   <a href="/tagged/manga-chan" target="_blank">Manga-chan</a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+
+   </div>
+   </div>
+   
+   
+   
+   
+   <div class="link">
+   <input type="radio" id="tab-13" name="tab-group-1">
+   <label for="tab-13">Misc Blog Links</label>
+       
+   <div class="contenido">
+   
+   <a href="http://whosthathufflepuff.tumblr.com/" target="_blank">Nick's Main</a>
+   <a href="https://inboxguardian.tumblr.com/" target="_blank">Inbox Guardian</a>
+   <a href="/tagged/who-is-the-actual-best/chrono" target="_blank">Translation notes by user giniroangou</a> 
+   <a href="/tagged/Nick-also-talks-about-other-things/chrono" target="_blank">Nick's many tangents</a>
+   <a href="https://discord.gg/zQEvUbF" target="_blank">Join the TRC Discord Server</a>
+   <a href="https://mangarock.com/manga/mrs-serie-276281" target="_blank">Read xXxHolic Online</a>
+   
+   <center>CLAMP Events</center>
+   <a href="https://tsubasachroniclemonth.tumblr.com" target="_blank">Tsubasa Chronicle Month</a>
+   <a href="https://kuroganeweek.tumblr.com/" target="_blank">Kurogane Week</a>
+   <a href="https://kurofai-week.tumblr.com/" target="_blank">KuroFai Week</a>
+   <a href="https://clampfemslashweek.tumblr.com/" target="_blank">CLAMP Femslash Week</a>
+   <a href="https://syaosakuspringbash.tumblr.com/" target="_blank">SyaoSaku Spring Bash</a>
+   <a href="https://touyukiweek.tumblr.com/" target="_blank">TouYuki Week</a>
+   <a href="https://ccs-pride-week.tumblr.com/" target="_blank">CCS Pride Week</a>
+   <a href="https://sakutomoweek.tumblr.com/" target="_blank">SakuTomo Week</a>
+   <a href="https://fai-week.tumblr.com/" target="_blank">Fai Week</a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+   <a href="/tagged/" target="_blank"></a>
+
+
+
+   </div>
+   </div>
+ <!------To here. Make sure you change the tabs numbers from 10 to 11. Keep the tab-group-1 (it's the only one you shouldn't change). Always increase the number if you want to add more lists-------->
+   
+   
+   
+    </div></div></div>
+   
+   
+    </div>
+  </body>
+</html>
